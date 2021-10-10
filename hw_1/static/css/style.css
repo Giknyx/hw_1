@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+form {
+    margin: 20px 0;
+}
+
+.flash {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.error {
+    color: #813315;
+}
+
+.success {
+    color: #24810e;
+}
